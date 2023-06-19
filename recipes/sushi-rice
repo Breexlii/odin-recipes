@@ -1,0 +1,35 @@
+<html>
+  <head>
+    <title>Japanese sushi rice</title>
+  </head>
+  <body>
+    <h1>Japanese sushi rice</h1>
+    <figure>
+    <img src="https://www.allrecipes.com/thmb/NHWApw4SW2DTHHz3KAC548LYet4=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2):format(webp)/99211-perfect-sushi-rice-DDMFS-4x3-3734ec6bd773431eac9953573a20bda1.jpg" alt="sushi rice image">
+      <figcaption>Here is my recipe for the perfect sushi rice. 
+You can eat this alone or roll into your favorite sushi roll with ingredients of choice. 
+I use strips of carrots, cucumbers and slices of avocado. 
+You can adjust the amount of vinegar in this recipe to suit your taste.</figcaption>
+    </figure>
+    <h4>Ingredients</h4>
+    <ul>
+      <li>2 cups uncooked glutinous white rice (sushi rice)</li>
+      <li>3 cups water</li>
+      <li>½ cup rice vinegar</li>
+      <li>1 tablespoon vegetable oil</li>
+      <li>¼ cup white sugar</li>
+      <li>1 teaspoon salt</li>
+    </ul>
+    
+    <h4>Steps</h4>
+    <ol>
+      <li>Rinse the rice in a strainer or colander under cold running water until the water runs clear.</li>
+      <li>Combine rice and water in a saucepan over medium-high heat and bring to a boil. 
+Reduce heat to low, cover, and cook until rice is tender and all water has been absorbed, about 20 minutes. 
+Remove from stove and set aside until cool enough to handle.</li>
+      <li>Meanwhile, combine rice vinegar, oil, sugar, and salt in a small saucepan over medium heat. 
+Cook until the sugar has dissolved. Allow to cool, then stir into the cooked rice. 
+While mixture will appear very wet at first, keep stirring and rice will dry as it cools.</li>
+    </ol>
+  </body>
+</html>
