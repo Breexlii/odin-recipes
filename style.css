@@ -1,0 +1,20 @@
+body{
+  margin: 0;
+}
+
+h1{
+text-align: center;
+}
+
+.headerimg{
+ width:auto; 
+ height:1px; 
+ position: absolute;
+ 
+}
+
+.recipes li{
+  list-style: none;
+  position:relative;
+  top: 450px;
+}
